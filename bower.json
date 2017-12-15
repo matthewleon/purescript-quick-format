@@ -1,5 +1,6 @@
 {
   "name": "purescript-quick-format",
+  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
