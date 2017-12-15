@@ -1,0 +1,19 @@
+{
+  "name": "purescript-quick-format",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-typelevel-prelude": "^2.6.0",
+    "purescript-strings": "^3.3.2",
+    "purescript-record": "^0.2.5"
+  },
+  "devDependencies": {
+    "purescript-console": "^3.0.0",
+    "purescript-debug": "^3.0.0",
+    "purescript-assert": "^3.0.0"
+  }
+}
