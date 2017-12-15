@@ -7,6 +7,10 @@
     "bower_components",
     "output"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matthewleon/purescript-quick-format.git"
+  },
   "dependencies": {
     "purescript-typelevel-prelude": "^2.6.0",
     "purescript-strings": "^3.3.2",
